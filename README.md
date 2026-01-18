@@ -1,4 +1,2 @@
 # Vectordash
 Geometry Dash for the Nintendo Entertainment System
-sha256:00fcd04a58e7a52512a3c53451ad5ab5495bee95482238482cd5739a7e12df0b
-original by kandowontu
